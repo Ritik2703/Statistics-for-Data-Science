@@ -32,24 +32,24 @@
 19. Central Limit Theorem
 20. Skewness of Data
 21. Covariance 
- Pearson Correlation Coefficient
-    Spearman Rank Correlation Coefficient
-    Importance of Correlation
-    Hypothesis Testing
-    Null Hypothesis 
-    Alternative Hypothesis
-    Understanding Hypothesis testing
+22. Pearson Correlation Coefficient
+23. Spearman Rank Correlation Coefficient
+24. Importance of Correlation
+25. Hypothesis Testing
+26. Null Hypothesis 
+27. Alternative Hypothesis
+28. Understanding Hypothesis testing
     (T-test,Chi square test, p values)
 
--------------------------------------
+----------------------------------------------------------------------------------------------
 # Advanced Stats
 
-21. Q-Q plot
-22. Chebyshev’s inequality
-23. Discrete And Continuous Distribution
-24. Bernoulli And Binomial Distribution
-25. Log Normal Distribution
-26. Power Law Distribution
-27. Box Cox Tranform
-28. Poisson Disstribution
-29. Application Of Non Gaussian Distribution
+29. Q-Q plot
+30. Chebyshev’s inequality
+31. Discrete And Continuous Distribution
+32. Bernoulli And Binomial Distribution
+33. Log Normal Distribution
+34. Power Law Distribution
+35. Box Cox Tranform
+36. Poisson Disstribution
+37. Application Of Non Gaussian Distribution
